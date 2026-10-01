@@ -1,0 +1,254 @@
+[
+ {
+  "name": "kr-vs-kp",
+  "status": "ok",
+  "openml_id": 3,
+  "meta_rows": 3196,
+  "n_rows": 3196,
+  "n_features": 36,
+  "minority_pct": 0.47778473091364204
+ },
+ {
+  "name": "vehicle",
+  "status": "error:ValueError",
+  "openml_id": 54,
+  "meta_rows": 846
+ },
+ {
+  "name": "churn",
+  "status": "ok",
+  "openml_id": 40701,
+  "meta_rows": 5000,
+  "n_rows": 5000,
+  "n_features": 20,
+  "minority_pct": 0.1414
+ },
+ {
+  "name": "SpeedDating",
+  "status": "ok",
+  "openml_id": 40536,
+  "meta_rows": 8378,
+  "n_rows": 8378,
+  "n_features": 120,
+  "minority_pct": 0.16471711625686322
+ },
+ {
+  "name": "Titanic",
+  "status": "ok",
+  "openml_id": 40704,
+  "meta_rows": 2201,
+  "n_rows": 2201,
+  "n_features": 3,
+  "minority_pct": 0.3230349840981372
+ },
+ {
+  "name": "wine",
+  "status": "error:ValueError",
+  "openml_id": 187,
+  "meta_rows": 178
+ },
+ {
+  "name": "ionosphere",
+  "status": "ok",
+  "openml_id": 59,
+  "meta_rows": 351,
+  "n_rows": 351,
+  "n_features": 34,
+  "minority_pct": 0.358974358974359
+ },
+ {
+  "name": "breast-w",
+  "status": "ok",
+  "openml_id": 15,
+  "meta_rows": 699,
+  "n_rows": 699,
+  "n_features": 9,
+  "minority_pct": 0.3447782546494993
+ },
+ {
+  "name": "colic",
+  "status": "ok",
+  "openml_id": 25,
+  "meta_rows": 368,
+  "n_rows": 368,
+  "n_features": 26,
+  "minority_pct": 0.3695652173913043
+ },
+ {
+  "name": "credit-approval",
+  "status": "ok",
+  "openml_id": 29,
+  "meta_rows": 690,
+  "n_rows": 690,
+  "n_features": 15,
+  "minority_pct": 0.4449275362318841
+ },
+ {
+  "name": "optdigits",
+  "status": "error:ValueError",
+  "openml_id": 28,
+  "meta_rows": 5620
+ },
+ {
+  "name": "pendigits",
+  "status": "error:ValueError",
+  "openml_id": 32,
+  "meta_rows": 10992
+ },
+ {
+  "name": "seismic-bumps",
+  "status": "error:ValueError",
+  "openml_id": 1500,
+  "meta_rows": 210
+ },
+ {
+  "name": "banknote-authentication",
+  "status": "ok",
+  "openml_id": 1462,
+  "meta_rows": 1372,
+  "n_rows": 1372,
+  "n_features": 4,
+  "minority_pct": 0.4446064139941691
+ },
+ {
+  "name": "cylinder-bands",
+  "status": "ok",
+  "openml_id": 6332,
+  "meta_rows": 540,
+  "n_rows": 540,
+  "n_features": 37,
+  "minority_pct": 0.4222222222222222
+ },
+ {
+  "name": "hill-valley",
+  "status": "ok",
+  "openml_id": 1479,
+  "meta_rows": 1212,
+  "n_rows": 1212,
+  "n_features": 100,
+  "minority_pct": 0.5
+ },
+ {
+  "name": "ozone-level-8hr",
+  "status": "ok",
+  "openml_id": 1487,
+  "meta_rows": 2534,
+  "n_rows": 2534,
+  "n_features": 72,
+  "minority_pct": 0.06314127861089187
+ },
+ {
+  "name": "solar-flare",
+  "status": "error:ValueError",
+  "openml_id": 40686,
+  "meta_rows": 315
+ },
+ {
+  "name": "thoracic-surgery",
+  "status": "ok",
+  "openml_id": 1506,
+  "meta_rows": 470,
+  "n_rows": 470,
+  "n_features": 16,
+  "minority_pct": 0.14893617021276595
+ },
+ {
+  "name": "yeast",
+  "status": "error:ValueError",
+  "openml_id": 181,
+  "meta_rows": 1484
+ },
+ {
+  "name": "balance-scale",
+  "status": "error:ValueError",
+  "openml_id": 11,
+  "meta_rows": 625
+ },
+ {
+  "name": "tic-tac-toe",
+  "status": "ok",
+  "openml_id": 50,
+  "meta_rows": 958,
+  "n_rows": 958,
+  "n_features": 9,
+  "minority_pct": 0.3465553235908142
+ },
+ {
+  "name": "monks-problems-1",
+  "status": "ok",
+  "openml_id": 333,
+  "meta_rows": 556,
+  "n_rows": 556,
+  "n_features": 6,
+  "minority_pct": 0.5
+ },
+ {
+  "name": "monks-problems-2",
+  "status": "ok",
+  "openml_id": 334,
+  "meta_rows": 601,
+  "n_rows": 601,
+  "n_features": 6,
+  "minority_pct": 0.3427620632279534
+ },
+ {
+  "name": "tokyo1",
+  "status": "ok",
+  "openml_id": 40705,
+  "meta_rows": 959,
+  "n_rows": 959,
+  "n_features": 44,
+  "minority_pct": 0.3607924921793535
+ },
+ {
+  "name": "quake",
+  "status": "error:ValueError",
+  "openml_id": 209,
+  "meta_rows": 2178
+ },
+ {
+  "name": "JapaneseVowels",
+  "status": "error:ValueError",
+  "openml_id": 375,
+  "meta_rows": 9961
+ },
+ {
+  "name": "internet-advertisements",
+  "status": "ok",
+  "openml_id": 40978,
+  "meta_rows": 3279,
+  "n_rows": 3279,
+  "n_features": 1558,
+  "minority_pct": 0.13998170173833485
+ },
+ {
+  "name": "mfeat-karhunen",
+  "status": "error:ValueError",
+  "openml_id": 16,
+  "meta_rows": 2000
+ },
+ {
+  "name": "Bioresponse",
+  "status": "ok",
+  "openml_id": 4134,
+  "meta_rows": 3751,
+  "n_rows": 3751,
+  "n_features": 1776,
+  "minority_pct": 0.4577446014396161
+ },
+ {
+  "name": "christine",
+  "status": "error:ProtocolError",
+  "openml_id": 41142,
+  "meta_rows": 5418
+ },
+ {
+  "name": "sylvine",
+  "status": "ok",
+  "openml_id": 41146,
+  "meta_rows": 5124,
+  "n_rows": 5124,
+  "n_features": 20,
+  "minority_pct": 0.5
+ }
+]

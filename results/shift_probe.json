@@ -1,0 +1,122 @@
+[
+ {
+  "dataset": "adult",
+  "openml_id": 179,
+  "column": "relationship",
+  "train_values": [
+   "Own-child"
+  ],
+  "test_values": [
+   "Wife"
+  ],
+  "prev_train_min": 0.014641867827463396,
+  "prev_test_min": 0.4688974688974689,
+  "shift_ratio": 32.024429835240646,
+  "n_total": 48842
+ },
+ {
+  "dataset": "bank-marketing",
+  "openml_id": 1461,
+  "column": "V16",
+  "train_values": [
+   "unknown"
+  ],
+  "test_values": [
+   "success"
+  ],
+  "prev_train_min": 0.09161503287426608,
+  "prev_test_min": 0.35274652547981467,
+  "shift_ratio": 3.850312709748515,
+  "n_total": 45211
+ },
+ {
+  "dataset": "default-of-credit-card-clients",
+  "openml_id": 42477,
+  "column": "x4",
+  "train_values": [
+   "2"
+  ],
+  "test_values": [
+   "3"
+  ],
+  "prev_train_min": 0.20928338762214985,
+  "prev_test_min": 0.26006191950464397,
+  "shift_ratio": 1.2426304947537072,
+  "n_total": 30000
+ },
+ {
+  "dataset": "credit-g",
+  "openml_id": 31,
+  "column": "checking_status",
+  "train_values": [
+   "no checking"
+  ],
+  "test_values": [
+   "<0"
+  ],
+  "prev_train_min": 0.116751269035533,
+  "prev_test_min": 0.4927007299270073,
+  "shift_ratio": 4.22008886067915,
+  "n_total": 1000
+ },
+ {
+  "dataset": "Titanic",
+  "openml_id": 40704,
+  "column": "Class",
+  "train_values": [
+   "0.965"
+  ],
+  "test_values": [
+   "-0.923"
+  ],
+  "prev_train_min": 0.23954802259887006,
+  "prev_test_min": 0.41403508771929826,
+  "shift_ratio": 1.7284011916583912,
+  "n_total": 2201
+ },
+ {
+  "dataset": "churn",
+  "openml_id": 40701,
+  "column": "international_plan",
+  "train_values": [
+   "0"
+  ],
+  "test_values": [
+   "1"
+  ],
+  "prev_train_min": 0.11221559531698697,
+  "prev_test_min": 0.42071881606765327,
+  "shift_ratio": 3.7492009455477686,
+  "n_total": 5000
+ },
+ {
+  "dataset": "kddcup09_appetency",
+  "openml_id": 1111,
+  "column": "Var82",
+  "train_values": [
+   "6.0"
+  ],
+  "test_values": [
+   "0.0"
+  ],
+  "prev_train_min": 0.0033783783783783786,
+  "prev_test_min": 0.044585987261146494,
+  "shift_ratio": 13.197452229299362,
+  "n_total": 50000
+ },
+ {
+  "dataset": "SpeedDating",
+  "openml_id": 40536,
+  "column": "d_like",
+  "train_values": [
+   "[0-5]"
+  ],
+  "test_values": [
+   "[9-10]"
+  ],
+  "prev_train_min": 0.034986413043478264,
+  "prev_test_min": 0.39373970345963755,
+  "shift_ratio": 11.254074630924007,
+  "n_total": 8378
+ }
+]

@@ -1,0 +1,179 @@
+[
+ {
+  "version": "v2",
+  "n_train": 4096,
+  "n_test": 1000,
+  "d": 20,
+  "ok": true,
+  "sec": 37.6,
+  "peak_gb": 7.19,
+  "pshape": [
+   1000,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 4096,
+  "n_test": 512,
+  "d": 20,
+  "ok": true,
+  "sec": 4.8,
+  "peak_gb": 3.93,
+  "pshape": [
+   512,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 4096,
+  "n_test": 256,
+  "d": 20,
+  "ok": true,
+  "sec": 3.7,
+  "peak_gb": 2.23,
+  "pshape": [
+   256,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 2048,
+  "n_test": 1000,
+  "d": 20,
+  "ok": true,
+  "sec": 3.6,
+  "peak_gb": 3.66,
+  "pshape": [
+   1000,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 2048,
+  "n_test": 512,
+  "d": 20,
+  "ok": true,
+  "sec": 2.3,
+  "peak_gb": 2.01,
+  "pshape": [
+   512,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 1024,
+  "n_test": 1000,
+  "d": 20,
+  "ok": true,
+  "sec": 1.8,
+  "peak_gb": 1.9,
+  "pshape": [
+   1000,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 1024,
+  "n_test": 512,
+  "d": 20,
+  "ok": true,
+  "sec": 1.2,
+  "peak_gb": 1.05,
+  "pshape": [
+   512,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 4096,
+  "n_test": 1000,
+  "d": 57,
+  "ok": false,
+  "err": "TabPFNCUDAOutOfMemoryError: CUDA out of memory with 1,000 test samples.\n\nThis is issue is usually caused by one of the"
+ },
+ {
+  "version": "v2",
+  "n_train": 4096,
+  "n_test": 512,
+  "d": 57,
+  "ok": true,
+  "sec": 118.6,
+  "peak_gb": 10.62,
+  "pshape": [
+   512,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 4096,
+  "n_test": 256,
+  "d": 57,
+  "ok": true,
+  "sec": 27.4,
+  "peak_gb": 5.97,
+  "pshape": [
+   256,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 2048,
+  "n_test": 1000,
+  "d": 57,
+  "ok": true,
+  "sec": 105.6,
+  "peak_gb": 9.87,
+  "pshape": [
+   1000,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 2048,
+  "n_test": 512,
+  "d": 57,
+  "ok": true,
+  "sec": 10.4,
+  "peak_gb": 5.39,
+  "pshape": [
+   512,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 1024,
+  "n_test": 1000,
+  "d": 57,
+  "ok": true,
+  "sec": 4.7,
+  "peak_gb": 5.07,
+  "pshape": [
+   1000,
+   2
+  ]
+ },
+ {
+  "version": "v2",
+  "n_train": 1024,
+  "n_test": 512,
+  "d": 57,
+  "ok": true,
+  "sec": 2.9,
+  "peak_gb": 2.78,
+  "pshape": [
+   512,
+   2
+  ]
+ }
+]
